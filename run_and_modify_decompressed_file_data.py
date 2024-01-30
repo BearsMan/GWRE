@@ -53,8 +53,6 @@ overwrite_records = {
 # Load overwrites from JSON file and merge with existing records
 overwrite_records.update(load_json_overwrites('./data/gw_dat_mod.json'))
 
-print(overwrite_records)
-
 # Function to load the data from the CSV file into a dictionary
 def load_file_data(filename):
     data_dict = {}
