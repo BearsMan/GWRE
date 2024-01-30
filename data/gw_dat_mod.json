@@ -1,0 +1,76 @@
+{
+  "overwriteSpecifications": [
+    {
+      "fileId": "0x1B97D",
+      "description": "Ascalon City (pre-Searing)",
+      "offsets": [
+        {
+          "recordName": "Set fog color to pure blue",
+          "offset": "0x2AB69F",
+          "data": "FF0000",
+          "enabled": true
+        },
+        {
+          "recordName": "Record2",
+          "offset": "0x12345",
+          "data": "AA BB CC DD",
+          "enabled": false
+        }
+      ]
+    },
+    {
+      "fileId": "0x3A59",
+      "description": "Ascalon City (post-Searing)",
+      "offsets": [
+        {
+          "recordName": "Set texture filenames to Lakesides",
+          "offset": "0x25A2D1",
+          "data": "A8 BA 01 01 00 00\nA8 BA 01 01 00 00\nA8 BA 01 01 00 00\nA8 BA 01 01 00 00\n8C BA 01 01 00 00\n97 BA 01 01 00 00\n8C BA 01 01 00 00\n97 BA 01 01 00 00\n8C BA 01 01 00 00\n8C BA 01 01 00 00\n97 BA 01 01 00 00\n91 BA 01 01 00 00\n98 BA 01 01 00 00\n98 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n8C BA 01 01 00 00\n97 BA 01 01 00 00\n8C BA 01 01 00 00\n97 BA 01 01 00 00\n8C BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n91 BA 01 01 00 00\n7E BA 01 01 00 00\n98 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\nA3 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00\n98 BA 01 01 00 00\n97 BA 01 01 00 00\n98 BA 01 01 00 00\n97 BA 01 01 00 00\n97 BA 01 01 00 00",
+          "enabled": true
+        },
+        {
+          "recordName": "Env sub 1",
+          "offset": "0x33AB53",
+          "data": "98 FF 00 FF FF FF 98 FF 00 FF FF FF 98 FF 00 FF FF FF 98 FF 00 FF FF FF",
+          "enabled": true
+        },
+        {
+          "recordName": "Env sub 2",
+          "offset": "0x33AB6E",
+          "data": "68 8C B3 38 18 00 00 E4 57 00 00 28 00 00 00 18 FC FF FF 68 8C B3 38 18 00 00 E4 57 00 00 28 00 00 00 18 FC FF FF",
+          "enabled": true
+        },
+        {
+          "recordName": "Env sub 3",
+          "offset": "0x33AB97",
+          "data": "8B B9 E3 B3 97 D9 FF FF 8B B9 E3 B3 97 D9 FF FF 8B B9 E3 B3 97 D9 FF FF",
+          "enabled": true
+        },
+        {
+          "recordName": "Env sub 5",
+          "offset": "0x33ABB7",
+          "data": "FF 01 00 02 00 03 00 04 00 29 AC 68 60 9C 35",
+          "enabled": true
+        },
+        {
+          "recordName": "Sky and cloud filenames 1-4",
+          "offset": "0x33AF79",
+          "data": "C4 50 03 01 00 00 8F 2A 00 01 00 00 4C 29 00 01 00 00 8B 28 00 01 00 00",
+          "enabled": true
+        },
+        {
+          "recordName": "Foliage",
+          "offset": "0x4A2F4",
+          "data": "6B BA 01 01 00 00 71 BA 01 01 00 00 5E BA 01 01 00 00 5F BA 01 01 00 00 62 BA 01 01 00 00 71 BA 01 01 00 00 5E BA 01 01 00 00 5F BA 01 01 00 00 62 BA 01 01 00 00 71 BA 01 01 00 00",
+          "enabled": true
+        },
+        {
+          "recordName": "NA",
+          "offset": "0",
+          "data": "",
+          "enabled": false
+        }
+      ]
+    }
+  ]
+}
